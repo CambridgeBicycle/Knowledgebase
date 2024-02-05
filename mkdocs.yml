@@ -1,0 +1,7 @@
+site_name: CB Training docs
+nav:
+  - Home: index.md
+  - Walkthroughs: walkthru
+  - Employee handbook: handbook.md
+  - About: about.md
+theme: readthedocs
