@@ -1,7 +1,11 @@
 site_name: CB Training docs
 nav:
   - Home: index.md
-  - Walkthroughs: walkthru
-  - Employee handbook: handbook.md
-  - About: about.md
+  - Walkthroughs:
+    - APPT Intake ROUGH DRAFT: apptintake.md
+    - Special orders NODRAFT: SpecOrder.md
+    - Checking out NODRAFT: LScheckout.md
+    - Taking a deposit NODRAFT: deposit.md
+  - Resources:
+    - Employee handbook NODRAFT: handbook.md
 theme: readthedocs
