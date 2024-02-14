@@ -28,7 +28,7 @@ Search for the item that you want to special order. It may need to be [imported 
 
 Once the item is on the work order, click on it to expand its sub menu. Click the 'Special Order' button to check it, and then click save.
 
-![image](images\specord2.png)
+![image](images\specorder2.png)
 
 That's it!
 
