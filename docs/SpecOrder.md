@@ -6,7 +6,7 @@ A [customer must be attached to the sale](\attachcust) to place a special order.
 
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
-Search for the item that you want to special order. It may need to be [imported from a vendor's catalogue](\importitem) or [created from scratch](\createitem).   
+Search for the item that you want to special order. It may need to be [imported from a vendor's catalog](\importitem) or [created from scratch](\createitem).   
 
 ![image](images\specord1.png)
 
@@ -24,7 +24,7 @@ Leave the sale window by clicking any category on the left-side dropdown menu.
 
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
-Search for the item that you want to special order. It may need to be [imported from a vendor's catalague](\importitem) or [created from scratch](\createitem).   
+Search for the item that you want to special order. It may need to be [imported from a vendor's catalog](\importitem) or [created from scratch](\createitem).   
 
 Once the item is on the work order, click on it to expand its sub menu. Click the 'Special Order' button to check it, and then click save.
 

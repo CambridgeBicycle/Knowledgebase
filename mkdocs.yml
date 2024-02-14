@@ -4,8 +4,9 @@ nav:
   - Walkthroughs:
     - APPT Intake ROUGH DRAFT: apptintake.md
     - Special orders ROUGH DRAFT: SpecOrder.md
+    - Customer Profiles ROUGH DRAFT: CustProfile.md
     - Checking out NODRAFT: LScheckout.md
-    - Taking a deposit NODRAFT: deposit.md
+    - Deposits ROUGHDRAFT: deposit.md
   - Resources:
     - Employee handbook NODRAFT: handbook.md
 theme: readthedocs
