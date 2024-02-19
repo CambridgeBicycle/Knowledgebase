@@ -4,19 +4,19 @@
 
 Navigate to the "Sales" tab on the left side of the screen. From there, click the " + New Sale" button, which will be the furthest icon to the right in the top row. Alternatively, you can type "Alt-N". 
 
-![image](images\newsale.png)
+![image](images\newsale.PNG)
 
 You will be prompted to enter your employee PIN. 
 
 Once you've entered your PIN, the sale screen will appear. You can scan the item the customer wants to purchase or type it in manually in the item search bar near the top left of the screen. A number of common labor items (flat repair, chain replace, brake pad replace, etc.) can also be found by clicking the buttons to the right of the search bar. 
 
-![image](images\sale_example.png)
+![image](images\sale_example.PNG)
 
 Once all the itmems and/or labor items are displaying correctly, click the large green "Payment" button to the right of the screen. 
 
 In the payment screen, you can select the correct payment type on the right side of the screen, like credit/debit, cash, or gift card. 
 
-![image](images\payment.png)
+![image](images\payment.PNG)
 
 In the case of credit/debit, make sure that you are using the proper payment terminal (Register 1 for the front desk and Register 2 for the service terminal). After you've verified that, click the "Start Payment" button. Click the large green "Finish Sale" button to the right once the payment has been captured. Print a receipt for the customer using the front receipt printer (Star TSP100).  
 
