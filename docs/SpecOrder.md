@@ -14,7 +14,7 @@ You can expand the item by clicking on it. In the 'Move to' dropdown, select Spe
 
 Alternatively if everything in the sale window is being special ordered, you can hit the 'Special Order All' button in the lower left of the screen.
 
-If you need to take a deposit for this special order, instructions can be found [here](\takedeposit).
+If you need to take a deposit for this special order, instructions can be found [here](\deposit).
 
 Leave the sale window by clicking any category on the left-side dropdown menu.
 
