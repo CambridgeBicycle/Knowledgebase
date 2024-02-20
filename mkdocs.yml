@@ -5,9 +5,12 @@ nav:
     - APPT Intake ROUGH DRAFT: apptintake.md
     - Special orders ROUGH DRAFT: SpecOrder.md
     - Customer Profiles ROUGH DRAFT: CustProfile.md
+    - Gift Cards ROUGH DRAFT: giftcards.md
     - Checking out ROUGH DRAFT: LScheckout.md
     - Deposits ROUGH DRAFT: deposit.md
-    - Ikeono chat ROUGH DRAFT: ikeono.md
+    - Texting through Lightstpeed (Ikeono) ROUGH DRAFT: ikeono.md
+    - Creating and Importing item cards  ROUGH DRAFT: itemcards.md
   - Resources:
     - Employee handbook NODRAFT: handbook.md
+
 theme: readthedocs
