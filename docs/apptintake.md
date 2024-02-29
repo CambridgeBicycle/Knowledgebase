@@ -4,6 +4,7 @@ Get the customer's name
 Click on Service on the left sidebar and then Schedule
 
 ![image](images\Screenshot 2024-02-05 145959.png)
+
 **Search by customer name or date range up in the uppermost row**
 
 You can narrow down the dates shown and search for the customer's name at the top of the screen.
