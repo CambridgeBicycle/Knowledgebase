@@ -34,4 +34,21 @@ That's it!
 
 ### How to check out a Special Order
 
+Find the customer's special order by clicking the Inventory category on the left-side dropdown menu. 
+
+After that, find the "Special Orders" button in the middle of the screen in the second row. Type in the customer's name to find their special order in the bar at the top left. 
+
+![image](images\specorder3.png)
+
+![image](images\specorder4.png)
+
+Once you've collected the special ordered product, scan the associated barcode on the slip that will be affixed to the product. 
+
+From there, you'll have to click the "Complete" button that is next to the correct product. Note that you must only complete items marked as "Ready for Pickup"!
+
+![images](images\specorder5.png)
+
+After that, the process is identical to closing a regular sale.
+
+Since all special orders require a full deposit in advance, the payment will be taken from the customer's account balance. 
 
