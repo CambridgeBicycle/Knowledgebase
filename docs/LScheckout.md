@@ -12,7 +12,7 @@ Once you've entered your PIN, the sale screen will appear. You can scan the item
 
 ![image](images\sale_example.PNG)
 
-Once all the itmems and/or labor items are displaying correctly, click the large green "Payment" button to the right of the screen. 
+Once all the items and/or labor items are displaying correctly, click the large green "Payment" button to the right of the screen. 
 
 In the payment screen, you can select the correct payment type on the right side of the screen, like credit/debit, cash, or gift card. 
 
