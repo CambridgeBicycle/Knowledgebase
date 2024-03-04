@@ -21,4 +21,4 @@ Change the Status field to Open if the repair is ready to proceed on the due dat
 
 Grab a spare pink bike tag. Write down the workorder number on the tag. Add the tag number to the 'Hook In' field.
 
-If the repair is scheduled for today, hit 'Print Tag' to print a copy of the workorder and let the Service Writer know that an appointment for today has arrived. 
+If the repair is scheduled for today, hit 'Print Tag' to print a copy of the workorder, put that on the 'Due Today' clipboard and let the Service Writer know that an appointment for today has arrived. 

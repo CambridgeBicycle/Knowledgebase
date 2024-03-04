@@ -16,9 +16,9 @@ Alternatively if everything in the sale window is being special ordered, you can
 
 If you need to take a deposit for this special order, instructions can be found [here](\deposit).
 
-Leave the sale window by clicking any category on the left-side dropdown menu.
+You can finish the sale by going through the normal process or simply leave the sale window by clicking any category on the left-side dropdown menu.
 
-**If you hit 'Cancel Sale' at this point, it will remove the item from Special Orders.**
+***If you hit 'Cancel Sale' at this point, it will remove the item from Special Orders.***
 
 ### How to take a special order for a Work Order
 

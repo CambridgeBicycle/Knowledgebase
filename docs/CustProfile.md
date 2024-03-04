@@ -16,4 +16,12 @@ From the Sale screen, you can search for a customer in the top left. If nothing 
 
 ![image](images\CustProf1.png)
 
+### Merging customer profiles
 
+Occasionally, customers will end up with multiple accounts created for them. If you notice this, it's best to merge the accounts into a single one.
+
+It's best to pick the account that has the most customer info already attached to it. Merging the accounts the accounts is irreversible, so we want to take our time and make sure that we're not making any mistakes. Any blank fields on the base account that have information saved to that field on the merged accounts will be updated. Any fields that are filled in on the base account and the merged account will retain the info of the base account.
+
+Go to Customers in the main menu, hit Customers again, and find the customers' account. Click merge on the submenu. You'll need to search for the customer's other account(s). select the account(s) you want to merge, and click the merge button at the bottom.
+
+![image](images\mergeaccount.png) 
