@@ -6,7 +6,7 @@ A [customer must be attached to the sale](\attachcust) to place a special order.
 
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
-Search for the item that you want to special order. It may need to be [imported from a vendor's catalog](\importitem) or [created from scratch](\createitem).   
+Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\itemcards).   
 
 ![image](images\specord1.png)
 
