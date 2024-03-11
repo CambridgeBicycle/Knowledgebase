@@ -16,3 +16,6 @@ nav:
     - Employee handbook NODRAFT: handbook.md
 
 theme: readthedocs
+plugins:
+   - glightbox:
+      zoomable: true
