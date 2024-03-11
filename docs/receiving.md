@@ -1,8 +1,8 @@
 # Receiving and Purchase Orders
 
-### Creating a Purchase Order
+### General notes
 
-**This is a general overview on how we use purchase orders, for step by step instructions on the receiving process, check the next section.**
+
 
 Click Inventory on the main Lightspeed menu. You can create a new purchase order by hitting 'New Order' or 'Purchase Orders' and then '+New Purchase Order' in the upper right.
 
@@ -23,7 +23,7 @@ In the 'Costs' section, the two dropdown menus need to be set to 'Don't apply to
 
 
 
-### Receiving a Shipment
+### Receiving a shipment
 
 When a shipment arrives and is ready to be received, first check to see if a purchase order has already been created for it.  
 
@@ -56,6 +56,10 @@ You'll receive the special order items like any other item in the main order win
 
 ![image](images/receive3.png)
 
-The special order will get a paper printout attached to it. If it's a item that a customer will simply come and pick up, simply click on the print icon. If the item is for a repair, there should be a work order number, click on that link and print out a copy of the work order. 
+The special order will get a paper printout attached to it. If it's a item that a customer will simply come and pick up, you can click on the print icon. You can click the speech bubble icon to automatically send a text to the customer that their special order is ready. If a customer has ordered more than one item and they'll be arriving around the same time, we generally wait until everything has arrived before notifying them. 
 
-For items that are attached to work orders, you'll need to check to see if   
+If the item is for a repair, there should be a work order number, click on that link and print out a copy of the work order. 
+
+For items that are attached to work orders, you'll need to check to see if any further steps are necessary. If all of the parts are now in the shop, the workorder status should be set to 'Open' or 'Appointment' as appropriate. Occasionally the customer will need to be notified that the parts have arrived so that they can setup an appointment to get them install - this is best handled by the service writer for the day, hand it off to them unless you feel confident in your ability to do that. If the repair is scheduled for today or a prior day, give the service writer a paper copy of the workorder and let them know that the parts are here and the repair needs to be scheduled.
+
+Once the special order is tagged, it needs to be put away. Special orders for repairs go in the yellow bins on the bakers racks downstairs, organized by the date that the repair is scheduled for (there's an overflow bin for repairs with uncertain dates). Other special orders go in the clear bins just past the receiving desk, organized by the customer's first name.  
