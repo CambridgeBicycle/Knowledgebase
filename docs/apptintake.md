@@ -1,4 +1,6 @@
-# How to intake a service appointment when it comes into the shop
+#
+###  How to intake a service appointment when it comes into the shop
+
 Get the customer's name
 
 Click on Service on the left sidebar and then Schedule

@@ -1,3 +1,4 @@
+# Item cards
 ### Best practices
 All new bikes that we sell have to have the 'Serialized' button checked on their item card! 
 The description should include the brand name, item name, and any descriptors (like size or color if it comes in multiple variations). Only 45 characters will print out on the price tag, so be sure that important things (like a bike's size) aren't in that section. It can be helpful to look at similar items, especially from the same manufacturer, to get an idea of how to name an item. Capitalize appropriately!  

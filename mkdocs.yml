@@ -13,10 +13,28 @@ nav:
     - Receiving and Purchase Orders ROUGH DRAFT: receiving.md
     - Creating and Importing item cards  ROUGH DRAFT: itemcards.md
     - Online order pickups ROUGH DRAFT: b2c.md
-    - Bike sales IN PROGRESS : bikesale.md
+    - Bike sales ROUGH DRAFT NEED ROB INPUT ON OTD SECTION : bikesale.md
+    - Returns IN PROGRESS : return.md
+#   - How to find next APPT date
+#   - Workorder
+#   - How to create a work order
+#   - Creating a work order for a repair
+#   - Counting out
+#   - Opening register procedures
+#   - Using Square - how to ring people up and reconcile the payments in LS
 
-#  - Resources:
-#    - Employee handbook NODRAFT: handbook.md
+
+
+# - Resources:
+#    Employee handbook 
+#    Attendance - shift start & end, calling out, scheduling time off
+#    Breaks
+#    Employee purchases
+#    Dress code
+#    After hours policy
+#    PTO and vacation policy
+
+
 
 theme: readthedocs
 plugins:

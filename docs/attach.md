@@ -1,3 +1,5 @@
+# Attaching customer accounts
+
 ### Attach a customer to a sale
 From the checkout window, you can either create a new customer account or search for an existing customer account using their name or phone number.
 ![image](images/searchcust.png)
