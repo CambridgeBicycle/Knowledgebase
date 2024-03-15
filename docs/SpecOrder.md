@@ -12,6 +12,8 @@ We take deposits for all special orders. The only exceptions are parts and acces
 
 The deposit is at least 50% of the sell price. It's not an issue if they'd like to pay in full. We always enter the payment as a deposit in Lightspeed and finish out the sale when the item leaves the store.
 
+There's a notes field for special orders (you can click on the item to expand it and see the notes), this is the best place to pass a message along to the buyers.  
+
 ### ETAs and timing
 
 We place our orders on Monday mornings. Most of our shipments from east coast and midwestern warehouse will arrive by Thursday. Some vendors and warehouses can take up to 2 weeks from when we place the order to arrive. Sometimes we'll wait on an order with a specialty vendor in order to hit a order minimum. If it's not coming from our local warehouses with QBP or J&B, ask someone (preferably a buyer) when it should arrive. This is quite important for arraigning service appointments and making sure the customer has a realistic expectation of when their order will arrive. It's much better to be conservative and have it arrive early (in the customer's eyes) than to give an optimistic timeline and disappoint someone.
