@@ -34,7 +34,7 @@ Alternatively if everything in the sale window is being special ordered, you can
 
 If you need to take a deposit for this special order, instructions can be found [here](\deposit).
 
-You can finish the sale by going through the normal process or simply leave the sale window by clicking any category on the left-side dropdown menu.
+You can finish the sale by going through the normal checkout process or simply leave the sale window by clicking any category on the left-side dropdown menu.
 
 ***If you hit 'Cancel Sale' at this point, it will remove the item from Special Orders.***
 
@@ -66,8 +66,6 @@ From there, you'll have to click the "Complete" button that is next to the corre
 
 ![image](images\specorder5.PNG)
 
-After that, the process is identical to closing a regular sale.
+After that, the process is identical to closing a regular sale, with either a full or partial payment from the customer's account balance (Assuming they placed a deposit, which is the standard).
 
-Since all special orders require a full deposit in advance, the payment will be taken from the customer's account balance. 
-
-
+Alternatively, you can start a sale and [attach the customer to it](\attach). Click the 'Special Orders' tab that appears at the top. All of their special orders will populate and you can select the ones that are ready to be picked up.

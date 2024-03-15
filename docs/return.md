@@ -1,4 +1,4 @@
-# Returns
+# Returns and Finding a receipt
 ### Return policy
 All bicycle sales, safety items (such as helmets), and special orders are final.
 Deposits are non-refundable.
@@ -26,4 +26,4 @@ If a customer didn't take or lost their receipt, there are a handful of differen
 
 ![image](images/refund2.png)
 
-If the customer doesn't have a receipt and the sale wasn't attached to their profile, the best way to track down receipts is usually in the 'Reports' section. You'll need to get some additional information from the customer - Date of purchase and the total amount of the transaction are the most helpful, and the easiest to find if the customer paid with a credit card. If they didn't pay with a card, it can occasionally be helpful to know if they purchased anything else at the same time. 
+If the customer doesn't have a receipt and the sale wasn't attached to their profile, the best way to track down receipts is usually in the 'Reports' section. You'll need to get some additional information from the customer - Date of purchase and the total amount of the transaction are the most helpful, and the easiest to find if the customer paid with a credit card. If they didn't pay with a card, it can occasionally be helpful to know if they purchased anything else at the same time. With the total amount and the date, the 'Payments received' report will be easy to track down a transaction by the amount spent. I usually search for the day they think they made the purchase on as well as a few days beforehand (Credit card statements aren't always accurate on the dates). Click on the ID #, and then 'Credit Card' on the left submenu - you can verify the last four digits of their credit card there. If it's a match, go back to 'Details', then click on the Transaction ID, and then you can start the refund from the refund button at the top. 

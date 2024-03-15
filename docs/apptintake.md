@@ -1,4 +1,4 @@
-#
+# Appointment drop offs
 ###  How to intake a service appointment when it comes into the shop
 
 Get the customer's name
@@ -9,11 +9,11 @@ Click on Service on the left sidebar and then Schedule
 
 **Search by customer name or date range up in the uppermost row**
 
-You can narrow down the dates shown and search for the customer's name at the top of the screen.
+You can narrow down the dates shown and search for the customer's name at the top of the screen. If you're having difficulty finding it, you can try alternative spellings (i.e. Marc vs Mark), search by phone number (just enter the phone number instead of name in the 'Customer' field), or partial words instead of a complete name. 
 
 Once you find the workorder, open it by clicking on the pencil icon on the left.
 
-Confirm the important details: The 'Due' date is the day that the appointment is set for. Make sure that if parts have been special ordered that they've all arrived. Scan both note fields and see if there's anything pertinent.
+Confirm the important details: The 'Due' date is the day that the appointment is set for. Make sure that if parts have been special ordered that they've all arrived. Scan both note fields and see if there's anything pertinent. 
 
 Let the customer know that they're all set and that they'll get a call or text when the bike is done. That's usually in the late afternoon on the day the repair is scheduled for.
 
