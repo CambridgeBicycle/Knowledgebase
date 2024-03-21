@@ -22,5 +22,5 @@ If the OTD and installs work won't be done on the same day, it's helpful to crea
 
 ### Freebies and discounts
 
-If a customer is buying a new bike and at least 5 accessories (anything else in the store, basically), we offer a 10% discount on all those accessories. 
+If a customer is buying a new bike and at least 5 accessories (anything else in the store besides another bike, essentially), we offer a 10% discount on all those accessories(Just the accessories, not the bike or any labor). 
 For all new bikes we sell, we offer 1 free tune-up within the first year of purchase. We usually recommend that customers come in after 6 months if the bike is being used regularly.
