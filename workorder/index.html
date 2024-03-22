@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Work Orders Basics ROUGH DRAFT, NEED INPUT - CB Training docs</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Work Orders Basics ROUGH DRAFT, NEED INPUT";
+        var mkdocs_page_input_path = "workorder.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+ <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }</style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> CB Training docs
+        </a>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Walkthroughs</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../apptintake/">APPT Drop Off procedure ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../SpecOrder/">Special orders ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../CustProfile/">Customer Profiles ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../giftcards/">Gift Cards ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../attach/">Attaching customers ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../LScheckout/">Checking out ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../deposit/">Deposits ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../ikeono/">Texting through Lightstpeed (Ikeono) ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../receiving/">Receiving and Purchase Orders ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../itemcards/">Creating and Importing item cards  ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../b2c/">Online Bike sale pickups ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../bikesale/">Bike sales ROUGH DRAFT NEED ROB INPUT ON OTD SECTION</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../return/">Returns and finding a receipt ROUGH DRAFT</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Work Orders Basics ROUGH DRAFT, NEED INPUT</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#creating-and-attaching-a-customer">Creating and attaching a customer</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#top-row-buttons">Top row buttons</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#status">Status</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#date-in-due-date">Date In/ Due Date</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#hook-inout">Hook In/Out</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#receipt-noteinternal-note">Receipt note/internal note</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#line-items">Line items</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#searching-for-a-work-order">Searching for a work order</a>
+    </li>
+    </ul>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">CB Training docs</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">Walkthroughs</li>
+      <li class="breadcrumb-item active">Work Orders Basics ROUGH DRAFT, NEED INPUT</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="work-order-basics">Work Order basics</h1>
+<h3 id="creating-and-attaching-a-customer">Creating and attaching a customer</h3>
+<p>You can create a work order by going to the 'Service' section of the main menu and then clicking 'New Work Order'. Search for the customer's account or <a href="../attach/">create a new customer account</a> if necessary.
+<a class="glightbox" href="../images/CustProf2.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../images/CustProf2.png" /></a></p>
+<p>If you're drawing up an estimate for a customer and you don't have their name yet, there's an 'Estimate' customer account that you can use a placeholder. Make sure that you remove the Estimate account instead of editing the customer account. You can also use the 'SHOP Supply' customer account if appropriate.</p>
+<h3 id="top-row-buttons">Top row buttons</h3>
+<p><a class="glightbox" href="../images/workorder1.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../images/workorder1.png" /></a></p>
+<p>Print tag will print a copy of the paperwork with all the details on the screen except the internal notes. </p>
+<p>Print quote will print a copy of the paperwork without the internal notes or receipt notes field, it will also print out on our letterhead. This version is also what gets sent to the customer if you text/email a copy to them. </p>
+<p>Checkout will take you directly from this screen to a sale window and will change the status to 'Completed'. </p>
+<p>We don't use the Invoice function</p>
+<p>To the right you can either Archive(will remove the work order from most searches) or Delete the work order(Only available if there are no line items entered).</p>
+<p>Show chat will bring up the Ikeono text history for this customer.</p>
+<h3 id="status">Status</h3>
+<p>The Status field denotes what state the repair is in. The following are some notes about the more important and less obvious statuses.</p>
+<p><strong>Setting this accurately is very important, repairs set to the wrong status are one of the biggest headaches that the service department deals with.</strong></p>
+<p><strong>Open</strong> - This is the status that a work order will be set to by default. This denotes that the repair has been approved, that the bike is here, and that there's no reason not to proceed with the repair. </p>
+<p><strong>Estimate</strong> - An <strong><em>un-approved</em></strong> estimate for service. </p>
+<p><strong>Assigned</strong> - This is scheduled to be worked on today, and it has been assigned to a mechanic.</p>
+<p><strong>Waiting for Customer</strong> - We're waiting for the customer to respond before the repair can proceed. This is usually used when we discover additional issues while working on a repair and we're waiting for a callback with approval. </p>
+<p><strong>Waiting for parts</strong> - This repair is approved and ready to be started on, the only thing preventing us from proceeding are special order parts that haven't arrived.</p>
+<p><strong>Needs QC</strong> Repair is finished, but needs to go through the quality control check.</p>
+<p><strong>Sales leads</strong> If a salesperson needs to collect a good deal of notes to help out a customer and wants to store it as a workorder so that they can follow up later. These will generally be ignored by everyone else, don't expect anyone else to look at it or follow up on it automatically. </p>
+<p><a class="glightbox" href="../images/workorder2.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../images/workorder2.png" /></a></p>
+<h3 id="date-in-due-date">Date In/ Due Date</h3>
+<p>Date in will auto-fill to the date and time that the work-order is created. We want to leave that as it is - we use this field to track when a bike entered the shop to be evaluated. </p>
+<p>Due date is when the bike is due. We don't use the time field - repairs are due by the end of the day generally, if it needs to be finished by a specific time it should be marked in the notes.</p>
+<h3 id="hook-inout">Hook In/Out</h3>
+<p>Hook in is where we track the hook downstairs that is occupied by the bike, matching the pink hang tag on the bike. We also sometimes enter 'Kickstand' to denote a bike that we took downstairs or tucked in a corner that's too heavy for a hook, 'Wheel Hooks' for the wheel storage above the back desk, and 'Sales Hooks' for the rows of shop bikes next to the repair bikes. </p>
+<p>Hook out is where the service department tracks the amount of labor on the ticket. This is usually a $ and the amount of labor (not including the discounts and rounded to an easy to read number) on the ticket. </p>
+<h3 id="receipt-noteinternal-note">Receipt note/internal note</h3>
+<p>Receipt notes are visible to the customer. We use a browser extension called Text-Blaze that will auto-fill some prompts in the note field, you can right click in the note field and navigate to 'Text Blaze' or use keyboard shortcuts (/wo is the standard one for workorders).</p>
+<p><a class="glightbox" href="../images/workorder3.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../images/workorder3.png" /></a></p>
+<p>Bear in mind, Receipt notes are visible to the customer! Internal notes will not print out on a paper copy either, so notes meant to be read by the mechanic doing the work should be entered in the receipt notes field (Best practice would be to also leave a comment on the corresponding line item as well).  </p>
+<p>Internal notes are where we keep the bulk of information related to a repair, generally so that it doesn't clutter up the customer's receipt with a bunch of procedural chatter. When updating a ticket's internal notes, we want to see the newest updates writted at the top with each update accompanied by your initials and the date. </p>
+<h3 id="line-items">Line items</h3>
+<p>You can enter the line items that will appear on the customer's receipt here. It's generally a good idea to include all services that will be performed - receipt/internal notes can often get overlooked by the mechanic.</p>
+<p>The buttons can be used as a shortcut to find the more common line items. Hitting them will either open a sub-menu with more buttons or add a specific line item to the work order. Of note - the 'Misc Item'(generally only used for used or take-off parts) and 'Misc Labor' should be avoided and used only as a last resort. Using those two buttons too often will screw up our inventory counts and reporting. </p>
+<h3 id="searching-for-a-work-order">Searching for a work order</h3>
+<p>From 'Service' in the main menu, the easiest way to find a work order is usually the work order submenu. You can search by customer name or phone number in the search field, or by the work order ID # in the ID field. Make sure that the date range and 'Hide Status' dropdown aren't excluding what your looking for from the results.<br />
+<a class="glightbox" href="../images/workorder4.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="../images/workorder4.png" /></a></p>
+<p>You can also find a list of all their workorders on a customer's account page, in the Work Orders submenu.</p>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../return/" class="btn btn-neutral float-left" title="Returns and finding a receipt ROUGH DRAFT"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../return/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+<script>const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});</script></body>
+</html>
