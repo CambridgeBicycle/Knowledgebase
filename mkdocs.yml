@@ -2,20 +2,20 @@ site_name: CB Training docs
 nav:
   - Home: index.md
   - Walkthroughs:
-    - APPT Drop Off procedure ROUGH DRAFT: apptintake.md
-    - Special orders ROUGH DRAFT: SpecOrder.md
-    - Customer Profiles ROUGH DRAFT: CustProfile.md
-    - Gift Cards ROUGH DRAFT: giftcards.md
-    - Attaching customers ROUGH DRAFT: attach.md
-    - Checking out ROUGH DRAFT: LScheckout.md
-    - Deposits ROUGH DRAFT: deposit.md
-    - Texting through Lightstpeed (Ikeono) ROUGH DRAFT: ikeono.md
-    - Receiving and Purchase Orders ROUGH DRAFT: receiving.md
-    - Creating and Importing item cards  ROUGH DRAFT: itemcards.md
-    - Online Bike sale pickups ROUGH DRAFT: b2c.md
-    - Bike sales ROUGH DRAFT NEED ROB INPUT ON OTD SECTION : bikesale.md
-    - Returns and finding a receipt ROUGH DRAFT : return.md
-    - Work Orders Basics ROUGH DRAFT, NEED INPUT : workorder.md
+    - APPT Drop Off procedure : apptintake.md
+    - Special orders : SpecOrder.md
+    - Customer Profiles : CustProfile.md
+    - Gift Cards : giftcards.md
+    - Attaching customers : attach.md
+    - Checking out : LScheckout.md
+    - Deposits : deposit.md
+    - Texting through Lightstpeed (Ikeono) : ikeono.md
+    - Receiving and Purchase Orders : receiving.md
+    - Creating and Importing item cards  : itemcards.md
+    - Online Bike sale pickups : b2c.md
+    - Bike sales  : bikesale.md
+    - Returns and finding a receipt : return.md
+    - Work Orders Basics : workorder.md
 #   - How to find next APPT date
 #   - How to create a work order
 #   - Creating a work order for a repair
