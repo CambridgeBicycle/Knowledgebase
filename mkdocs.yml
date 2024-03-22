@@ -40,3 +40,4 @@ theme: readthedocs
 plugins:
    - glightbox:
       zoomable: true
+   - search:
