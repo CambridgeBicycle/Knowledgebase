@@ -1,3 +1,39 @@
+Notes on CB Wiki sections - Mattybraps
+Appointment Drop Offs
+How to intake a service appointment when it comes into the shop
+Mentioning that customers take any accessories with them! I.e. locks, helmets, clip on fenders, lights etc…
+Special Orders
+ETAs and Timing
+Might mention when to special order a part for pickup, and special order a part for a work order. (i.e. if we’re installing the part for the customer, create a workorder. Trying to avoid the workorders that say “contact customer when part arrives to setup an install” where possible)
+Could also add a rough estimate for SO’d parts coming from the west coast JBI/QBP warehouses.
+How to take a special order for a Work Order
+Sometimes I find that the price in Lightspeed doesn’t match the MSRP from the dealer’s website. It might be a good idea to mention checking that the two prices match and changing the one in LS to match, especially if we’re ordering it from the dealer.
+Customer Profiles
+Best practices
+I usually check to see if there’s a customer profile that already exists by asking if the customer has had work done here before, then searching by phone number instead of by name.
+Bike Sales
+Checkout Procedure
+For OTD’s that aren’t leaving with the customer, workorders can be made using the “/otd” command with text blaze and filled in by the salesperson.
+Could also add a section for how to handle a test ride. (i.e. where test ride helmets are, taking ID’s, where to recommend customers ride etc…)
+Work Order Basics
+Hook in/out
+Should include why we put a dollar amount in Hook out, i.e. the importance of tracking daily repair totals. 
+Could also add to write labor totals on the paper “next-appointment” calendar. Though this is mostly for service writers creating appointments.
+
+General/Misc
+Adding a section on how to handle warranty claims?
+Adding a section on clipboard repair etiquette?
+When to take in a clipboard repair
+What info goes where
+When a repair justifies a digital workorder
+Converting clipboard repairs to digital workorders (mostly for service writers)
+Adding a section about SRO parts, (where to find them, where to put them, and how to handle bins)?
+Adding an opening an closing procedure section?
+Keeping service department clean and where tools live for sales
+Adding a section on the numbered hook system? (this one might not be necessary, it’s pretty obvious lol)
+Where sales hooks / employee bike hooks are downstairs
+
+
 
 
 
