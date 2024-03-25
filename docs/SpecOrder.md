@@ -22,11 +22,11 @@ If you're taking a special order on the day that we're ordering, check with the 
 
 ### How to take a special order from the register window
 
-A [customer must be attached to the sale](\attach\) to place a special order. 
+A [customer must be attached to the sale](\attach.md) to place a special order. 
 
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
-Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\itemcards\).   
+Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\itemcards.md).   
 
 ![image](images\specord1.png)
 
@@ -34,7 +34,7 @@ You can expand the item by clicking on it. In the 'Move to' dropdown, select Spe
 
 Alternatively if everything in the sale window is being special ordered, you can hit the 'Special Order All' button in the lower left of the screen.
 
-If you need to take a deposit for this special order, instructions can be found [here](\deposit\).
+If you need to take a deposit for this special order, instructions can be found [here](\deposit.md).
 
 You can finish the sale by going through the normal checkout process or simply leave the sale window by clicking any category on the left-side dropdown menu.
 
@@ -44,7 +44,7 @@ You can finish the sale by going through the normal checkout process or simply l
 
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
-Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\itemcards\).   
+Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\itemcards.md).   
 
 Once the item is on the work order, click on it to expand its sub menu. Click the 'Special Order' button to check it, and then click save.
 
@@ -70,4 +70,4 @@ From there, you'll have to click the "Complete" button that is next to the corre
 
 After that, the process is identical to closing a regular sale, with either a full or partial payment from the customer's account balance (Assuming they placed a deposit, which is the standard).
 
-Alternatively, you can start a sale and [attach the customer to it](\attach\). Click the 'Special Orders' tab that appears at the top. All of their special orders will populate and you can select the ones that are ready to be picked up.
+Alternatively, you can start a sale and [attach the customer to it](\attach.md). Click the 'Special Orders' tab that appears at the top. All of their special orders will populate and you can select the ones that are ready to be picked up.
