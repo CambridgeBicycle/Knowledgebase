@@ -16,8 +16,9 @@ nav:
     - Bike sales  : bikesale.md
     - Returns and finding a receipt : return.md
     - Work Orders Basics : workorder.md
-    - Opening/Closing procedure ROUGH DRAFT: clopen.md
+#   - Opening/Closing procedure ROUGH DRAFT: clopen.md
 #   - Annual inventory OUTLINE : annualinv.md
+
 #   - How to find next APPT date
 #   - How to create a work order
 #   - Creating a work order for a repair
@@ -38,7 +39,8 @@ nav:
 
 
 
-theme: readthedocs
+theme: 
+  name: readthedocs
 plugins:
    - glightbox:
       zoomable: true
