@@ -37,7 +37,8 @@ As you go through the packing list: check that the cost of the item in Lightspee
 
 ![image](images/receive1.png)
 
-Once you've entered all the items in the shipment or if the PO was already created, change the status of the PO to 'Check In'. If you've already checked that the PO exactly matches the cost and quantity of what we received, you can hit 'Receive all items'. Otherwise, go through it line by line and set the quantity that we received. 
+Once you've entered all the items in the shipment or if the PO was already created, change the status of the PO to 'Check In'. If you've already checked that the PO exactly matches the cost and quantity of what we received, you can hit 'Receive all items'. Otherwise, go through it line by line and set the correct quantity that we received as well as the actual cost displayed on the packing slip (or the distributors b2b site if there is no packing slip).
+
 Once you're done hit 'Add received to inventory', which is the step that updates our inventory. 
 
 ![image](images/receive2.png)
