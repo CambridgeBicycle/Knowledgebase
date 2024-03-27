@@ -10,6 +10,8 @@ You will be prompted to enter your employee PIN.
 
 Once you've entered your PIN, the sale screen will appear. You can scan the item the customer wants to purchase or type it in manually in the item search bar near the top left of the screen. A number of common labor items (flat repair, chain replace, brake pad replace, etc.) can also be found by clicking the buttons to the right of the search bar. 
 
+Adjust the quantity as needed manually by adjusting the quantity field of the item or by simply scanning the items barcode again. 
+
 ![image](images\sale_example.PNG)
 
 Once all the items and/or labor items are displaying correctly, click the large green "Payment" button to the right of the screen. 
