@@ -1,16 +1,6 @@
-Notes on CB Wiki sections - Mattybraps
-Appointment Drop Offs
-How to intake a service appointment when it comes into the shop
-Mentioning that customers take any accessories with them! I.e. locks, helmets, clip on fenders, lights etc…
-Special Orders
-ETAs and Timing
-Might mention when to special order a part for pickup, and special order a part for a work order. (i.e. if we’re installing the part for the customer, create a workorder. Trying to avoid the workorders that say “contact customer when part arrives to setup an install” where possible)
-Could also add a rough estimate for SO’d parts coming from the west coast JBI/QBP warehouses.
-How to take a special order for a Work Order
-Sometimes I find that the price in Lightspeed doesn’t match the MSRP from the dealer’s website. It might be a good idea to mention checking that the two prices match and changing the one in LS to match, especially if we’re ordering it from the dealer.
-Customer Profiles
-Best practices
-I usually check to see if there’s a customer profile that already exists by asking if the customer has had work done here before, then searching by phone number instead of by name.
+specorder, apptintake, custprofile, feedback
+
+
 Bike Sales
 Checkout Procedure
 For OTD’s that aren’t leaving with the customer, workorders can be made using the “/otd” command with text blaze and filled in by the salesperson.
