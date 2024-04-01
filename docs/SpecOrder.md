@@ -16,13 +16,17 @@ There's a notes field for special orders (you can click on the item to expand it
 
 ### ETAs and timing
 
-We place our orders on Monday mornings. Most of our shipments from east coast and midwestern warehouse will arrive by Thursday. Some vendors and warehouses can take up to 2 weeks from when we place the order to arrive. Sometimes we'll wait on an order with a specialty vendor in order to hit a order minimum. If it's not coming from our local warehouses with QBP or J&B, ask someone (preferably a buyer) when it should arrive. This is quite important for arraigning service appointments and making sure the customer has a realistic expectation of when their order will arrive. It's much better to be conservative and have it arrive early (in the customer's eyes) than to give an optimistic timeline and disappoint someone.
+We place our orders on Monday mornings. Most of our shipments from east coast and midwestern warehouse will arrive by Thursday. QBP's west coast and J&B's Florida warehouses are probably the second most common warehouses - they take over a week, minimum. Some vendors and warehouses can take up to 2 weeks from when we place the order to arrive. 
+
+In addition - sometimes we'll have to wait on an order with a specialty vendor in order to hit a order minimum. If it's not coming from our local warehouses with QBP or J&B, ask someone (preferably a buyer) when it should arrive. This is quite important for arraigning service appointments and making sure the customer has a realistic expectation of when their order will arrive. It's much better to be conservative and have it arrive early (in the customer's eyes) than to give an optimistic timeline and disappoint someone.
+
+Don't forget about holidays! Our vendors and shipping providers are closed for pretty much every minor holiday, which will usually delay orders by 2-ish days. During the winter holiday season, all bets are off for the most part. 
 
 If you're taking a special order on the day that we're ordering, check with the person working on ordering to see if it'll go on that day's order. Make sure you let them know once the order is fully entered in LS as well - they may have already entered special orders into the shopping carts and sometimes last-minute special orders get missed.  
 
 ### How to take a special order from the register window
 
-A [customer must be attached to the sale](\Knowledgebase\attach) to place a special order. 
+A [customer must be attached to the sale](\Knowledgebase\attach) to place a special order. If we're planning to install the part when it arrives, it should be written up on a work order instead of a sale.
 
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
@@ -42,9 +46,11 @@ You can finish the sale by going through the normal checkout process or simply l
 
 ### How to take a special order for a Work Order
 
+A special order should be placed on a work order if we're going to be doing the installation or some sort of labor alongside the special order. If the bike isn't scheduled already, try to schedule a date in advance for the work to be done - workorders with loose ideas of when the work will be done or notes like 'setup appointment when parts arrive' are very problematic for the service department, especially in the busy season.
+
 Labor, miscellaneous items, and some items with 'non-inventory' tags cannot be special ordered.
 
-Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\Knowledgebase\itemcards).   
+Search for the item that you want to special order. It may need to be [imported from a vendor's catalog or created from scratch](\Knowledgebase\itemcards). You'll want to double check the price in Lightspeed - it should either match MSRP or our pricing conventions. Ask one of the buyers if you're not sure on the pricing.   
 
 Once the item is on the work order, click on it to expand its sub menu. Click the 'Special Order' button to check it, and then click save.
 

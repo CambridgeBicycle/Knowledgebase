@@ -50,7 +50,8 @@ Due date is when the bike is due. We don't use the time field - repairs are due 
 ### Hook In/Out
 Hook in is where we track the hook downstairs that is occupied by the bike, matching the pink hang tag on the bike. We also sometimes enter 'Kickstand' to denote a bike that we took downstairs or tucked in a corner that's too heavy for a hook, 'Wheel Hooks' for the wheel storage above the back desk, and 'Sales Hooks' for the rows of shop bikes next to the repair bikes. 
 
-Hook out is where the service department tracks the amount of labor on the ticket. This is usually a $ and the amount of labor (not including the discounts and rounded to an easy to read number) on the ticket. 
+Hook out is where the service department tracks the amount of labor on the ticket. This is usually a $ and the amount of labor (not including the discounts and rounded to an easy to read number) on the ticket. This is how the service department tracks how much service they have scheduled on a particular day. We also track this number on the calendar by the main service computer, so if you're adding service to the next available appt date, please add it there as well.
+
 ### Receipt note/internal note
 Receipt notes are visible to the customer. We use a browser extension called Text-Blaze that will auto-fill some prompts in the note field, you can right click in the note field and navigate to 'Text Blaze' or use keyboard shortcuts (/wo is the standard one for workorders).
 

@@ -18,7 +18,7 @@ If the customer is taking the bike immediately, you can finish the sale like any
 ### Out the door check
 We always do a final mechanical check on a bike after we sell it before it leaves the shop, this is usually (but not always) when we install the accessories that the customer has picked out. It usually takes a mechanic about 10 minutes in a best case scenario.  It's important to check in with the service writer about when they can accommodate the work - by their nature the out-the-door process is last minute. Be sure to mention all the accessories that are being installed - they can add a significant amount of time. 
 
-If the OTD and installs work won't be done on the same day, it's helpful to create a work order to keep everything straight forward for the mechanics.
+If the OTD and installs work won't be done on the same day, it's helpful to create a work order to keep everything straight forward for the mechanics. After creating a new workorder, you can type /OTD in the notes field and textblaze will fill in a template for you. 
 
 ### Freebies and discounts
 
