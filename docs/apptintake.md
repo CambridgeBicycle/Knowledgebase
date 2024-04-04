@@ -5,7 +5,7 @@ Get the customer's name
 
 Click on Service on the left sidebar and then Schedule
 
-![image](images\Screenshot 2024-02-05 145959.png)
+![image](images\apptintake1.png)
 
 **Search by customer name or date range up in the uppermost row**
 
@@ -21,7 +21,7 @@ Let the customer know that they're all set and that they'll get a call or text w
 
 Change the Status field to Open if the repair is ready to proceed on the due date. If it's still waiting for parts to be received, change the status to Waiting for Parts.
 
-![image](images\Screenshot 2024-02-05 151911.png)
+![image](images\apptintake2.png))
 
 Grab a spare pink bike tag. Write down the workorder number on the tag. Add the tag number to the 'Hook In' field.
 
