@@ -93,4 +93,4 @@ If you leave this process at any point, it should be automatically as a draft wh
 ## Helpdesk contact info
 APTIM Helpdesk
 617 663 8415
-ebujes.boston@aptim.com
+ebikes.boston@aptim.com
