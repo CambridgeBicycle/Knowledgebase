@@ -77,13 +77,13 @@ Each proof of purchase must include
 * The last letter of the voucher number indicates the voucher type: B for bicycle vouchers, A for accessories vouchers and M for maintenance vouchers.
 * Select the Voucher type and click the **Check Voucher Status** button.
 
-![image](images\voucher2.PNG)
+![image](images\cambridgevoucher1.jpg)
 
-It will display customer's name(don't forget to verify their ID at this point), voucher status (valid, redeemed or expired[if not valid and customer believes that it is in error, tell them to get in touch with city of Boston]), expiration date, type of eligible product(s) and the amount of the voucher.  
+It will display customer's name(don't forget to verify their ID at this point if you haven't already), voucher status (valid, redeemed or expired[if not valid and customer believes that it is in error, tell them to get in touch with The City of Cambridge]), expiration date, type of eligible product(s) and the amount of the voucher.  
 
-Hit redeem, create, and verify information is correct. The next page will have dropdown a menu to select the bike model.
+If the customer is using the voucher now, you can hit redeem now. If the customer will be using the voucher but we don't have all the necessary information to redeem it (likely situation would be the serial number of a special order bike), then we can put a hold on the voucher. 
 
-![image](images\voucher1.PNG)
+![image](images\cambridgevoucher2.jpg)
 
 The next page will have you enter the bike's serial number, the cost of the e-bike (Bike only, NOT including taxes, additional parts, labor, etc), the class of the e-bike, and have you answer some yes or no eligibility questions. Finally, you'll enter proof of sale - a pdf of the receipt is best. 
 If you leave this process at any point, it should be automatically as a draft which can be resumed later from the 'My Voucher Redemptions' page.
