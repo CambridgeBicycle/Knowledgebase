@@ -29,8 +29,11 @@ A $150 Safety Equipment Voucher will be issued along with each E-Bike Voucher
 
 * Helmets
 * Locks
-* Lights
-* Floor pumps
+* Floor Pumps
+* Lights (helmet, rider, or bicycle mounted)
+* Bells
+* Mirrors
+* Phone Mounts
 * No other equipment can be purchased with this voucher
 
 ---
@@ -82,6 +85,6 @@ If you leave this process at any point, it should be automatically as a draft wh
 
 ## Helpdesk contact info
 APTIM Helpdesk
-617 663 8415
+833-527-7213
 MA-Ebikes@Aptim.com
  
