@@ -23,6 +23,7 @@
 * Must meet UL 2849 and/or EN 15194 standards and have at least a 1 year warranty on electric components  
 * Must be Sold as new, no used bikes.  
 * Cannot be easily unlocked to a higher top speed.
+* Cannot be on the Cargo bike list
 
 ### Cargo E-Bikes Eligibility requirements
 * Must meet all the requirements of a standard e-bike.
@@ -34,7 +35,7 @@
 ### Accessory Voucher requirements.
 **(This is a separate voucher!)**
 
-* Can NOT be used for the e-bike itself, taxes, shipping, labor, or other fees.  
+* Can NOT be used for the e-bike itself, shipping, labor, or other fees.  
 * Cambridge is much more flexible than Boston and MA here - they only stipulate that the accessories have to "make cycling safer and more comfortable." This includes child seats or a car bike rack.
 * Accessories are not eligible for return!
 
@@ -56,7 +57,7 @@
 * Vouchers must redeemed at the time of purchase (Not retroactive to previously purchased bikes).
 * Maintenance vouchers good for 1 year after issue.
 * Each voucher can only be used once (Can't be spread over multiple purchases).
-* Vouchers can only be applied to the retail cost of the e-bike and sales tax. Bike Vouchers cannot be used for labor or accessories. 
+* Bike vouchers can only be applied to the retail cost of the e-bike and sales tax. Bike Vouchers cannot be used for labor or accessories. 
 * Excess voucher amounts cannot be transferred or used on something else.
 * The serial number must be entered into the online portal at the time of sale
 * An  itemized receipt noting the City of Cambridge E-Bike Incentive must be uploaded to the portal
